@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# Large datasets
+datasets/
+
+# YOLO training outputs
+runs/
+
+# Model weights
+*.pt
+*.onnx
+*.engine
+
+# YOLO cache
+*.cache
+
+# Test outputs
+test_result.jpg
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
