@@ -2,7 +2,7 @@
 
 import networkx as nx
 
-from venue_graph import build_venue_graph
+from intelligence.venue_graph import build_venue_graph
 
 
 class CrowdRouter:
